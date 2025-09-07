@@ -1,0 +1,71 @@
+
+      <html>
+      <head>
+          <title>Network Health Report</title>
+          <style>
+              body {
+                  font-family: Arial, sans-serif;
+                  background-color: #f4f6f9;
+                  color: #333;
+                  padding: 20px;
+              }
+              h2 {
+                  text-align: center;
+                  color: #2c3e50;
+              }
+              .summary {
+                  width: 80%;
+                  margin: 0 auto;
+                  padding: 10px;
+                  background: #ecf0f1;
+                  border-radius: 6px;
+                  text-align: center;
+                  font-size: 16px;
+                  margin-bottom: 20px;
+              }
+              table {
+                  width: 80%;
+                  margin: 0 auto;
+                  border-collapse: collapse;
+                  box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+                  background: #fff;
+                  border-radius: 8px;
+                  overflow: hidden;
+              }
+              th, td {
+                  padding: 12px 15px;
+                  text-align: center;
+              }
+              th {
+                  background-color: #34495e;
+                  color: #fff;
+                  text-transform: uppercase;
+                  letter-spacing: 1px;
+              }
+              tr:nth-child(even) {
+                  background-color: #f9f9f9;
+              }
+              tr:hover {
+                  background-color: #f1f1f1;
+              }
+              .up {
+                  color: green;
+                  font-weight: bold;
+              }
+              .down {
+                  color: red;
+                  font-weight: bold;
+              }
+              .fast {
+                  color: green;
+              }
+              .medium {
+                  color: orange;
+              }
+              .slow {
+                  color: red;
+              }
+          </style>
+      </head>
+      <body>
+      <h2>Network Health Report - 07-09-2025   02:51:24 PM</h2><div class='summary'>Total Hosts: 7 | UP: 5 | DOWN: 2</div><table><tr><th>Host</th><th>Status</th><th>Latency</th><th>Timestamp</th></tr><tr><td>8.8.8.8</td><td class='up'>UP</td><td class='fast'>20.710 ms</td><td>07-09-2025   02:51:24 PM</td></tr><tr><td>1.1.1.1</td><td class='up'>UP</td><td class='fast'>4.869 ms</td><td>07-09-2025   02:51:24 PM</td></tr><tr><td>www.google.com</td><td class='up'>UP</td><td class='fast'>8.860 ms</td><td>07-09-2025   02:51:24 PM</td></tr><tr><td>www.github.com</td><td class='up'>UP</td><td class='fast'>31.951 ms</td><td>07-09-2025   02:51:24 PM</td></tr><tr><td>192.168.1.1</td><td class='down'>DOWN</td><td class='slow'>N/A</td><td>07-09-2025   02:51:24 PM</td></tr><tr><td>192.168.2.4</td><td class='down'>DOWN</td><td class='slow'>N/A</td><td>07-09-2025   02:51:24 PM</td></tr><tr><td>www.leetcode.com</td><td class='up'>UP</td><td class='medium'>56.035 ms</td><td>07-09-2025   02:51:24 PM</td></tr></table></body></html>
