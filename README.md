@@ -52,6 +52,8 @@ network-health-monitor/
 4. Check reports in the `reports/` folder:  
    - `report.csv` → Raw data  
    - `report.html` → Styled report  
+   - **Live report preview:** [View Report Online](https://hamzah311.github.io/network-health-monitor/reports/report.html)
+
 
 ---
 
