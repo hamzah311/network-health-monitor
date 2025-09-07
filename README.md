@@ -88,8 +88,13 @@ Total Hosts: 3 | UP: 2 | DOWN: 1
 - Scheduler integration (cron jobs / Task Scheduler)  
 - Real-time monitoring dashboard  
 
+## Sample Report
+![Sample Report](screenshot.png)
+
+
 ---
 
 ## 👨‍💻 Author  
 **Hamzah Imtiaz**  
 MCA Student | Aspiring Full-Stack & Automation Engineer  
+
