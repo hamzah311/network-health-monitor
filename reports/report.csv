@@ -1,8 +1,8 @@
 Host,Status,Latency,Timestamp
-8.8.8.8,UP,1 ms,03-11-2025   02:41:59 PM
-1.1.1.1,UP,2 ms,03-11-2025   02:41:59 PM
-www.google.com,UP,2 ms,03-11-2025   02:41:59 PM
-www.github.com,UP,17 ms,03-11-2025   02:41:59 PM
-192.168.1.1,DOWN,N/A,03-11-2025   02:41:59 PM
-192.168.2.4,DOWN,N/A,03-11-2025   02:41:59 PM
-www.leetcode.com,UP,2 ms,03-11-2025   02:41:59 PM
+8.8.8.8,UP,1 ms,04-11-2025   02:41:18 PM
+1.1.1.1,UP,2 ms,04-11-2025   02:41:18 PM
+www.google.com,UP,2 ms,04-11-2025   02:41:18 PM
+www.github.com,UP,27 ms,04-11-2025   02:41:18 PM
+192.168.1.1,DOWN,N/A,04-11-2025   02:41:18 PM
+192.168.2.4,DOWN,N/A,04-11-2025   02:41:18 PM
+www.leetcode.com,UP,2 ms,04-11-2025   02:41:18 PM
